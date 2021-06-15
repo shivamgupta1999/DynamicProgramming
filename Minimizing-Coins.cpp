@@ -26,4 +26,5 @@ int main()
 			}
 		}
 		cout<<(dp[x]==1e9?-1:dp[x])<<endl;
+	return 0;
 }
