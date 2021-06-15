@@ -39,5 +39,5 @@ int main()
     }
 
     cout<<dp[n][m]<<endl;
-
+    return 0;
 }
