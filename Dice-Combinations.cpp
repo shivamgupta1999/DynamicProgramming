@@ -16,4 +16,5 @@ int main() {
         }
     }
     cout << dp[n] << endl;
+    return 0;
 }
